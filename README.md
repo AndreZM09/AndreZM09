@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrezm09" alt="andrezm09" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce app**
+- 🔭 I’m currently working on an **Ecommerce app**
 
 - 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **My modular project**
 
 - 👨‍💻 All of my projects are available at [https://andrezm09.github.io/WebPage/#home](https://andrezm09.github.io/WebPage/#home)
 
@@ -18,8 +16,6 @@
 - 📫 How to reach me **andre_zm09@hotmail.com**
 
 - 📄 Know about my experiences [https://andrezm09.github.io/WebPage/resume.html](https://andrezm09.github.io/WebPage/resume.html)
-
-- ⚡ Fun fact **I have 3 scars in the same knee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
